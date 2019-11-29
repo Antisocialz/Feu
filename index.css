@@ -1,0 +1,48 @@
+
+.red {
+    background: rgba(255, 0, 0, 0.15);
+    border-radius: 50%;
+    
+}
+.orange {
+    background: rgba(255, 165, 0, 0.15);
+    border-radius: 50%;
+}
+.green {
+    background: rgba(0, 128, 0, 0.15);
+    border-radius: 50%;
+    
+}
+div {
+    height: 150px;
+    width: 150px;
+}
+
+
+.ongreen {
+    background:green;
+}
+
+.onorange {
+    background: orange;
+}
+ .onred {
+     background: red;
+ }
+
+div
+{
+    z-index: 1;
+    margin: 50px;
+    width: 200px;
+    height: 180px;
+    border: black solid 1px;
+}
+
+#panneau {
+    z-index: 0;
+    width: 302px;
+    height: 754px;
+    border: black solid 1px;
+    background: black;
+}
